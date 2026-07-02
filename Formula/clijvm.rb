@@ -1,8 +1,8 @@
 class Clijvm < Formula
   desc "AI-friendly JVM profiler CLI built on JDK Flight Recorder"
   homepage "https://github.com/takahirom/jvm-profiler-cli"
-  url "https://github.com/takahirom/jvm-profiler-cli/releases/download/0.1.0/clijvm-0.1.0.tar.gz"
-  sha256 "5de9a685225e527973a695c9989aefeccf9ef14a22aa3166d4c001756252e6a0"
+  url "https://github.com/takahirom/jvm-profiler-cli/releases/download/0.2.0/clijvm-0.2.0.tar.gz"
+  sha256 "89ea1696a8c15a8d1a095614b5902edab469cdac71caba623d1e4047937d43f2"
   license "Apache-2.0"
 
   # clijvm needs a full JDK (attach API + jcmd), which Homebrew's openjdk provides.
