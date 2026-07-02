@@ -1,7 +1,7 @@
 class Clijvm < Formula
   desc "AI-friendly JVM profiler CLI built on JDK Flight Recorder"
-  homepage "https://github.com/takahirom/jvm-profiler-cli"
-  url "https://github.com/takahirom/jvm-profiler-cli/releases/download/0.4.0/clijvm-0.4.0.tar.gz"
+  homepage "https://github.com/takahirom/cli-jvm"
+  url "https://github.com/takahirom/cli-jvm/releases/download/0.4.0/clijvm-0.4.0.tar.gz"
   sha256 "3b0c612df84ced50141d69836e59a61cc3d790df6b61ff021084c592aceb0406"
   license "Apache-2.0"
 
