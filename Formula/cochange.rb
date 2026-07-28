@@ -1,8 +1,8 @@
 class Cochange < Formula
   desc "Find code that changes together but lives apart, from Git history"
   homepage "https://github.com/takahirom/cochange"
-  url "https://github.com/takahirom/cochange/releases/download/0.4.0/cochange-0.4.0.tar.gz"
-  sha256 "a31f5fa2e398c80490ee6207641697952ba703e7863c89ec71ef6bbc55b6846a"
+  url "https://github.com/takahirom/cochange/releases/download/0.5.0/cochange-0.5.0.tar.gz"
+  sha256 "9a24f09d6f4a9dbea6fd4d802974b67713e5721bf9d0304942d96f01fdb30f1e"
   license "Apache-2.0"
 
   depends_on "openjdk"
