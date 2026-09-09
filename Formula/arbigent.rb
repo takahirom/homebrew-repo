@@ -4,8 +4,8 @@
 class Arbigent < Formula
   desc "Zero to AI agent testing in minutes for Android, iOS, and Web apps. Arbigent's intuitive UI and powerful code interface make it accessible to everyone, while its scenario breakdown feature ensures scalability for even the most complex tasks."
   homepage ""
-  url "https://github.com/takahirom/arbigent/releases/download/0.81.0/arbigent-0.81.0.tar.gz"
-  sha256 "d3080079f6d8a9a865031ada7dd2b0afbae9581cbea187d7abd358f0f664fbe0"
+  url "https://github.com/takahirom/arbigent/releases/download/0.81.1/arbigent-0.81.1.tar.gz"
+  sha256 "1e00492ea9e139f1ca8b38326c0df85a5e88ea19022598a85002ab007340fdbf"
   license "Apache-2.0"
 
   # depends_on "cmake" => :build
